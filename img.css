@@ -1,0 +1,57 @@
+img {
+    margin-left: 41%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+div {
+   background-color: papayawhip;
+   color: brown;
+   height: fit-content;
+   margin-left: 20%;
+   margin-right: 20%;
+   margin-bottom: 20%;
+   margin-top: 0%;
+   padding: 0%; 
+
+}
+
+p 
+{
+    color: white;
+}
+
+.div {
+    background-color: brown;
+    border-bottom: 2px solid black;
+    height: 100%;
+    margin-top: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 0%;
+}
+
+img {
+    border-radius: 50%;
+}
+
+
+.c {
+    background-color: black;
+}
+
+
+p {
+    text-align: center;
+    font-size: 32px;
+}
+
+.main {
+
+    margin-left: 40%;
+    
+}

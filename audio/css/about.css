@@ -1,0 +1,14 @@
+span {
+    text-transform: uppercase;
+
+}
+
+legend {
+    border: 1px solid black;
+}
+body {
+    background-image: url(../Dms/images/logo.jpeg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

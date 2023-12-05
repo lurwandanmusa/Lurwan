@@ -1,0 +1,22 @@
+body {
+    margin-left: 45%;
+}
+
+.p {
+   font-size: 48px;
+   margin-left: -40%; 
+}
+
+.para {
+    font-size: 32px;
+    margin-left: -10%;
+    padding-top: -10%;
+}
+input  {
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    margin-left: 8%;
+}

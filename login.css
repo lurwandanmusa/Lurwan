@@ -1,0 +1,13 @@
+body {
+    margin-left: 40%;
+    background-image: url(../Dms/images/logo.jpeg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: large;
+    color: papayawhip;
+}
+
+.hhh {
+    margin-left: 10%;
+}

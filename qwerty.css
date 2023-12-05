@@ -1,0 +1,20 @@
+*{
+   font-style: italic;
+   border: 4px solid maroon;
+
+}
+body {
+    font-size: 22px;
+}
+p {
+    color: purple;
+}
+
+h2 {
+    color: brown;
+    font-style: italic;
+}
+
+h2 {
+    border: 3px solid brown;
+}

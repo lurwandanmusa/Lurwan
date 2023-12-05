@@ -1,0 +1,57 @@
+body {
+    font-size: 3em;
+    background-color: darkgrey;
+    line-height: 1.5;
+    color: rgba(0,0,0,1)
+    
+}
+
+p {
+    color: #000;
+    font-style: italic;
+}
+
+#second {
+    font-size: 100%;
+    font-style: italic;
+}
+
+.khalifa {
+    font-style: italic;
+    color: rgb(53, 12, 12);
+}
+
+.ameer {
+    font-size: 16px;
+}
+
+fieldset {
+    line-height: 1.0;
+}
+
+.fig {
+    font-size: 30%;
+}
+
+span {
+    text-transform: uppercase;
+    background: black;
+    color: white;
+}
+img
+{
+    font-size: small;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 20%;
+}
+legend
+{
+    color: firebrick;
+}
+h2
+{
+    color: aqua;
+}
